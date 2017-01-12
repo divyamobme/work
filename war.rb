@@ -53,7 +53,7 @@ def lastrule (shaarmy,shanew)
 
         if shaarmy[j]!=0
           if shanew[i] > shaarmy[j]
-            leng[j] += shaarmy[j]         
+            leng[j] += shaarmy[j]        
             shanew[i] -= shaarmy[j]
             shaarmy[j]=0
             shanew[i]= shanew[i]*2 
