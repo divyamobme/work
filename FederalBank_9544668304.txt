@@ -1,0 +1,1456 @@
+Account Number : 10655000217397 - (
+        {
+        amount = 940;
+        avlbalance = "9970.7";
+        balance = "9058.9";
+        "bank_id" = S77064798;
+        date = "07-OCT-2016 04:58:30 PM";
+        details = "FN/VINIL MANUEL/5522591";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 3000;
+        avlbalance = "9970.7";
+        balance = "6058.9";
+        "bank_id" = CFB711136;
+        date = "09-OCT-2016 04:14:01 PM";
+        details = "MB IMPS/IFO/628209804292/SBIN0008590/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 700;
+        avlbalance = "9970.7";
+        balance = "5358.9";
+        "bank_id" = " CFB38495";
+        date = "09-OCT-2016 04:57:18 PM";
+        details = "TO ATM/3095/FBL-HEAD OFFICE       \\GROUND FLOO";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10;
+        avlbalance = "9970.7";
+        balance = "5348.9";
+        "bank_id" = S77242765;
+        date = "09-OCT-2016 09:56:10 PM";
+        details = "FN/ANJU K/5721131";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10;
+        avlbalance = "9970.7";
+        balance = "5338.9";
+        "bank_id" = S77247393;
+        date = "09-OCT-2016 10:35:02 PM";
+        details = "FN/SHP/DURGOTSAV20161009223354491/DURGOTSAV2016100";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 100;
+        avlbalance = "9970.7";
+        balance = "5238.9";
+        "bank_id" = S78211651;
+        date = "12-OCT-2016 07:03:23 PM";
+        details = "MB IMPS/IFO/628619830628/ICIC0000048/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 700;
+        avlbalance = "9970.7";
+        balance = "4538.9";
+        "bank_id" = CFB538983;
+        date = "13-OCT-2016 12:43:00 AM";
+        details = "TO ATM/3261/FBL-HEAD OFFICE       \\GROUND FLOO";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 500;
+        avlbalance = "9970.7";
+        balance = "4038.9";
+        "bank_id" = S78373872;
+        date = "13-OCT-2016 10:44:51 AM";
+        details = "MB IMPS/IFO/628710833612/ICIC0000048/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 1;
+        avlbalance = "9970.7";
+        balance = "4037.9";
+        "bank_id" = S79317348;
+        date = "14-OCT-2016 06:03:55 PM";
+        details = "MB IMPS/IFO/628818845963/ICIC0000048/Anyb";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 100;
+        avlbalance = "9970.7";
+        balance = "3937.9";
+        "bank_id" = S79428901;
+        date = "14-OCT-2016 09:33:52 PM";
+        details = "MB IMPS/IFO/628821847427/ICIC0000048/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = "1937.9";
+        "bank_id" = " FB137677";
+        date = "18-OCT-2016 03:57:56 PM";
+        details = "Dr. Tran for funding A/c 10650600024251";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 1000;
+        avlbalance = "9970.7";
+        balance = "937.9";
+        "bank_id" = S83711896;
+        date = "23-OCT-2016 07:11:21 PM";
+        details = "TO ATM/9603/FBL-ALUVA BANK JUNC   \\GRND FLR, H";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10000;
+        avlbalance = "9970.7";
+        balance = "10937.9";
+        "bank_id" = S83746895;
+        date = "23-OCT-2016 09:26:22 PM";
+        details = "FT IMPS/IFI/629721559613/ANUB K/IMPS";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 2500;
+        avlbalance = "9970.7";
+        balance = "8437.9";
+        "bank_id" = S85441488;
+        date = "26-OCT-2016 07:24:44 PM";
+        details = "TO ATM/6991/FBL-ALUVA BANK JUNC   \\GRND FLR, H";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = "41837.85";
+        avlbalance = "9970.7";
+        balance = "50275.75";
+        "bank_id" = S86181982;
+        date = "28-OCT-2016 09:53:57 AM";
+        details = "SALARYPF/PR: 10675 ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 20000;
+        avlbalance = "9970.7";
+        balance = "30275.75";
+        "bank_id" = S86226183;
+        date = "28-OCT-2016 10:51:25 AM";
+        details = "MB FTB/16302045510/ANUB K/Achanfeder/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 15000;
+        avlbalance = "9970.7";
+        balance = "15275.75";
+        "bank_id" = S86645444;
+        date = "28-OCT-2016 06:07:12 PM";
+        details = "MB IMPS/IFO/630218947510/ICIC0000048/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10;
+        avlbalance = "9970.7";
+        balance = "15265.75";
+        "bank_id" = S86648545;
+        date = "28-OCT-2016 06:10:57 PM";
+        details = "MB IMPS/IFO/630218947551/ICIC0000048/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 5000;
+        avlbalance = "9970.7";
+        balance = "10265.75";
+        "bank_id" = S87518134;
+        date = "31-OCT-2016 08:10:35 AM";
+        details = "FN/ANUB K/9359491";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = "8265.75";
+        "bank_id" = S88093743;
+        date = "01-NOV-2016 08:12:28 AM";
+        details = "FN/ANUB K/9577071";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 100;
+        avlbalance = "9970.7";
+        balance = "8165.75";
+        "bank_id" = S88317400;
+        date = "01-NOV-2016 12:36:48 PM";
+        details = "MB FTB/16306060186/ANUB K/reema/";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 1500;
+        avlbalance = "9970.7";
+        balance = "9665.75";
+        "bank_id" = S88448561;
+        date = "01-NOV-2016 03:04:26 PM";
+        details = "LOTZA/630615000161/sunnykp@federal/z";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 1500;
+        avlbalance = "9970.7";
+        balance = "8165.75";
+        "bank_id" = S88451354;
+        date = "01-NOV-2016 03:08:14 PM";
+        details = "MB FTB/16306090600/ANUB K//";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 5000;
+        avlbalance = "9970.7";
+        balance = "3165.75";
+        "bank_id" = S88756684;
+        date = "02-NOV-2016 08:11:02 AM";
+        details = "FN/ANUB K/9797201";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 100;
+        avlbalance = "9970.7";
+        balance = "3065.75";
+        "bank_id" = S88949430;
+        date = "02-NOV-2016 12:37:38 PM";
+        details = "MB IMPS/IFO/630712980570/ICIC0000048/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 100;
+        avlbalance = "9970.7";
+        balance = "2965.75";
+        "bank_id" = S90151521;
+        date = "04-NOV-2016 12:35:41 PM";
+        details = "MB IMPS/IFO/630912999293/ICIC0000048/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10;
+        avlbalance = "9970.7";
+        balance = "2975.75";
+        "bank_id" = S90158991;
+        date = "04-NOV-2016 12:46:33 PM";
+        details = "MB FTB/16309066993/ANISH V KU//";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 1;
+        avlbalance = "9970.7";
+        balance = "2974.75";
+        "bank_id" = S90445267;
+        date = "04-NOV-2016 07:16:09 PM";
+        details = "MB FTB/16309142553/ANUB K//";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10000;
+        avlbalance = "9970.7";
+        balance = "12974.75";
+        "bank_id" = S91214036;
+        date = "06-NOV-2016 08:22:13 AM";
+        details = "FT IMPS/IFI/631108518682/ANUB K/Anub";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 5296;
+        avlbalance = "9970.7";
+        balance = "7678.75";
+        "bank_id" = S91275816;
+        date = "06-NOV-2016 11:23:23 AM";
+        details = "MB FTB/16311035132/ANUB K//";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = "5291.25";
+        avlbalance = "9970.7";
+        balance = 12970;
+        "bank_id" = S91280835;
+        date = "06-NOV-2016 11:35:49 AM";
+        details = "FUEL/CONV ALLW/10675";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 4400;
+        avlbalance = "9970.7";
+        balance = 17370;
+        "bank_id" = S91999777;
+        date = "07-NOV-2016 05:15:41 PM";
+        details = "ANUB K 10675 Allow Of 10/2016";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 1;
+        avlbalance = "9970.7";
+        balance = 17369;
+        "bank_id" = S92277090;
+        date = "08-NOV-2016 09:37:53 AM";
+        details = "FN/SHP/163130937117/163130937117/NET EFEE POOL ACC";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = 15369;
+        "bank_id" = " FB378159";
+        date = "10-NOV-2016 06:13:09 PM";
+        details = CASH;
+        "instrument_number" = "          967456";
+        type = D;
+    },
+        {
+        amount = 400;
+        avlbalance = "9970.7";
+        balance = 14969;
+        "bank_id" = S93843905;
+        date = "11-NOV-2016 05:24:00 PM";
+        details = "MB FTB/16316157622/ANUB K//";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = 12969;
+        "bank_id" = S93930198;
+        date = "11-NOV-2016 07:52:37 PM";
+        details = "TO ATM/5672/FBL-HEAD OFFICE       \\GROUND FLOO";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 127;
+        avlbalance = "9970.7";
+        balance = 12842;
+        "bank_id" = S94079486;
+        date = "12-NOV-2016 10:30:27 AM";
+        details = "LOTZA/631710000183/919847082324@9049424.mmid.npci";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 49000;
+        avlbalance = "9970.7";
+        balance = 61842;
+        "bank_id" = S94146362;
+        date = "12-NOV-2016 12:23:46 PM";
+        details = "BY CDM/1882/FBL-HEAD OFFICE       \\";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = 59842;
+        "bank_id" = S94152089;
+        date = "12-NOV-2016 12:34:06 PM";
+        details = "TO ATM/5822/FBL-HEAD OFFICE       \\GROUND FLOO";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 45000;
+        avlbalance = "9970.7";
+        balance = 14842;
+        "bank_id" = S94320982;
+        date = "12-NOV-2016 05:30:33 PM";
+        details = "MB FTB/16317164954/ANUB K/Amma/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = 12842;
+        "bank_id" = S94750307;
+        date = "13-NOV-2016 07:58:53 PM";
+        details = "TO ATM/6113/FBL-HEAD OFFICE       \\GROUND FLOO";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = 10842;
+        "bank_id" = S95168440;
+        date = "14-NOV-2016 07:13:21 PM";
+        details = "TO ATM/6258/FBL-HEAD OFFICE       \\GROUND FLOO";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 3000;
+        avlbalance = "9970.7";
+        balance = 13842;
+        "bank_id" = S95171319;
+        date = "14-NOV-2016 07:18:50 PM";
+        details = "FT IMPS/IFI/631919334930/ANUB K/A";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 30000;
+        avlbalance = "9970.7";
+        balance = 43842;
+        "bank_id" = S95732665;
+        date = "15-NOV-2016 08:07:56 PM";
+        details = "MB FTB/16320217775/AMBIKA K/anub/anub";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 6500;
+        avlbalance = "9970.7";
+        balance = 37342;
+        "bank_id" = S96333834;
+        date = "17-NOV-2016 08:22:04 AM";
+        details = "MB FTB/16322022861/ANUB K//";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 24000;
+        avlbalance = "9970.7";
+        balance = 13342;
+        "bank_id" = " FB233703";
+        date = "17-NOV-2016 02:57:03 PM";
+        details = CASH;
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 1;
+        avlbalance = "9970.7";
+        balance = 13341;
+        "bank_id" = S96677405;
+        date = "17-NOV-2016 06:41:47 PM";
+        details = "FN/SHP/163221841054/163221841054/NET EFEE POOL ACC";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 1;
+        avlbalance = "9970.7";
+        balance = 13340;
+        "bank_id" = S96678071;
+        date = "17-NOV-2016 06:42:50 PM";
+        details = "FN/SHP/163221841567/163221841567/NET EFEE POOL ACC";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 4000;
+        avlbalance = "9970.7";
+        balance = 17340;
+        "bank_id" = S96974466;
+        date = "18-NOV-2016 02:39:10 PM";
+        details = "Out of Pocket Expenses  for Fi";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 3350;
+        avlbalance = "9970.7";
+        balance = 13990;
+        "bank_id" = S97059018;
+        date = "18-NOV-2016 03:46:46 PM";
+        details = "MB FTB/16323148215/ANUB K//";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = 11990;
+        "bank_id" = S98060533;
+        date = "20-NOV-2016 09:54:32 PM";
+        details = "TO ATM/2764/KALAMASSERY, ERNAKULAM\\";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10744;
+        avlbalance = "9970.7";
+        balance = 1246;
+        "bank_id" = " FB248656";
+        date = "22-NOV-2016 04:31:01 PM";
+        details = VIDYODAYA;
+        "instrument_number" = "        10100014";
+        type = D;
+    },
+        {
+        amount = 50;
+        avlbalance = "9970.7";
+        balance = 1196;
+        "bank_id" = S99330928;
+        date = "23-NOV-2016 10:43:09 AM";
+        details = "EFT/MISREC48096 RECHARGE 9946086356Euronet Servic";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = "45814.85";
+        avlbalance = "9970.7";
+        balance = "47010.85";
+        "bank_id" = " S2265012";
+        date = "29-NOV-2016 09:49:07 AM";
+        details = "SALARYPF/PR: 10675 ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 1450;
+        avlbalance = "9970.7";
+        balance = "45560.85";
+        "bank_id" = " S2553908";
+        date = "29-NOV-2016 03:31:04 PM";
+        details = "MB FTB/16334129237/ANUB K//";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 30000;
+        avlbalance = "9970.7";
+        balance = "15560.85";
+        "bank_id" = " S2613690";
+        date = "29-NOV-2016 04:39:11 PM";
+        details = "MB IMPS/IFO/633416369046/ICIC0000048/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 1;
+        avlbalance = "9970.7";
+        balance = "15559.85";
+        "bank_id" = " S2841207";
+        date = "29-NOV-2016 11:47:31 PM";
+        details = "FN/SHP/163342345418/163342345418/NET EFEE POOL ACC";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 5000;
+        avlbalance = "9970.7";
+        balance = "10559.85";
+        "bank_id" = " S2922709";
+        date = "30-NOV-2016 08:09:48 AM";
+        details = "FN/ANUB K/5102451";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 30000;
+        avlbalance = "9970.7";
+        balance = "40559.85";
+        "bank_id" = " S2940456";
+        date = "30-NOV-2016 09:00:53 AM";
+        details = "MB FTB/16335035749/MADHURIMA /Anub/anub";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = "1347.5";
+        avlbalance = "9970.7";
+        balance = "39212.35";
+        "bank_id" = " S3103230";
+        date = "30-NOV-2016 12:28:45 PM";
+        details = "LOTZA/633512000880/avk@federal/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 20000;
+        avlbalance = "9970.7";
+        balance = "19212.35";
+        "bank_id" = " FB154465";
+        date = "30-NOV-2016 01:29:03 PM";
+        details = CASH;
+        "instrument_number" = "        10293831";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = "17212.35";
+        "bank_id" = CFB972463;
+        date = "01-DEC-2016 09:13:10 AM";
+        details = "FN/ANUB K/5372221";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 1265;
+        avlbalance = "9970.7";
+        balance = "15947.35";
+        "bank_id" = " S3678451";
+        date = "01-DEC-2016 10:02:44 AM";
+        details = "MB IMPS/IFO/633610394444/CBIN0284152/NA";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10;
+        avlbalance = "9970.7";
+        balance = "15937.35";
+        "bank_id" = " S3747901";
+        date = "01-DEC-2016 11:22:17 AM";
+        details = "EFT/MB16336088207 RECHARGE 9497566356Euronet Serv";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10;
+        avlbalance = "9970.7";
+        balance = "15947.35";
+        "bank_id" = " S3747943";
+        date = "01-DEC-2016 11:22:18 AM";
+        details = "EFT/MB16336088207 MB16336088207 9497566356";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 10;
+        avlbalance = "9970.7";
+        balance = "15937.35";
+        "bank_id" = " S3748516";
+        date = "01-DEC-2016 11:22:42 AM";
+        details = "EFT/MB16336088339 RECHARGE 9446539546Euronet Serv";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 5000;
+        avlbalance = "9970.7";
+        balance = "10937.35";
+        "bank_id" = " S4348460";
+        date = "02-DEC-2016 08:09:50 AM";
+        details = "FN/ANUB K/5659411";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = "5252.25";
+        avlbalance = "9970.7";
+        balance = "16189.6";
+        "bank_id" = " S5708515";
+        date = "03-DEC-2016 10:29:57 PM";
+        details = "FUEL/CONV ALLW/10675";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 5296;
+        avlbalance = "9970.7";
+        balance = "10893.6";
+        "bank_id" = " S5746399";
+        date = "04-DEC-2016 04:07:40 AM";
+        details = "Std Ins to 17680600002430";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 1000;
+        avlbalance = "9970.7";
+        balance = "9893.6";
+        "bank_id" = " S6600344";
+        date = "05-DEC-2016 05:10:15 PM";
+        details = "LOTZA/634017001640/anishupi@federal/anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 4400;
+        avlbalance = "9970.7";
+        balance = "14293.6";
+        "bank_id" = " S6759101";
+        date = "05-DEC-2016 07:18:52 PM";
+        details = "ANUB K 10675 Allow Of 11/2016";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 1220;
+        avlbalance = "9970.7";
+        balance = "13073.6";
+        "bank_id" = " S8353282";
+        date = "07-DEC-2016 07:59:25 PM";
+        details = "MB FTB/16342276790/ANUB K//";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 11000;
+        avlbalance = "9970.7";
+        balance = "2073.6";
+        "bank_id" = " S8551974";
+        date = "08-DEC-2016 10:46:13 AM";
+        details = "MB FTB/16343070503/ANUB K/reema/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 500;
+        avlbalance = "9970.7";
+        balance = "2573.6";
+        "bank_id" = " S8931097";
+        date = "08-DEC-2016 05:33:24 PM";
+        details = "MB FTB/16343228091/ANOOP P//";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 134;
+        avlbalance = "9970.7";
+        balance = "2707.6";
+        "bank_id" = " S9959331";
+        date = "10-DEC-2016 09:35:55 AM";
+        details = "10655000217397:Int.Pd:01-09-2016 to 30-11-2016";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 10000;
+        avlbalance = "9970.7";
+        balance = "12707.6";
+        "bank_id" = S10679179;
+        date = "12-DEC-2016 08:50:30 AM";
+        details = "MB FTB/16347027786/AMBIKA K/anub/anub";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 5000;
+        avlbalance = "9970.7";
+        balance = "7707.6";
+        "bank_id" = S10688299;
+        date = "12-DEC-2016 09:25:29 AM";
+        details = "MB FTB/16347034733/ANUB K/reema/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 179;
+        avlbalance = "9970.7";
+        balance = "7528.6";
+        "bank_id" = S10883057;
+        date = "12-DEC-2016 02:21:29 PM";
+        details = "FN/SHP/HFBK4964629385/HFBK4964629385_LIC/INDIAIDEA";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 650;
+        avlbalance = "9970.7";
+        balance = "6878.6";
+        "bank_id" = S11052966;
+        date = "12-DEC-2016 07:53:39 PM";
+        details = "TO POS/3946/INSTYLE               \\INSTYLE";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 5000;
+        avlbalance = "9970.7";
+        balance = "1878.6";
+        "bank_id" = " FB203730";
+        date = "15-DEC-2016 03:04:27 PM";
+        details = CASH;
+        "instrument_number" = "        10293832";
+        type = D;
+    },
+        {
+        amount = 10;
+        avlbalance = "9970.7";
+        balance = "1868.6";
+        "bank_id" = S13502995;
+        date = "16-DEC-2016 11:24:55 AM";
+        details = "MB FTB/16351088535/ANUB K/reema/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10;
+        avlbalance = "9970.7";
+        balance = "1858.6";
+        "bank_id" = S13684866;
+        date = "16-DEC-2016 02:53:26 PM";
+        details = "MB FTB/16351183126/ANUB K/reema/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 11;
+        avlbalance = "9970.7";
+        balance = "1847.6";
+        "bank_id" = S13882167;
+        date = "16-DEC-2016 06:20:59 PM";
+        details = "MB FTB/16351268425/ANUB K/reema/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 4000;
+        avlbalance = "9970.7";
+        balance = "5847.6";
+        "bank_id" = S16605623;
+        date = "21-DEC-2016 10:49:52 AM";
+        details = "FT IMPS/IFI/635610024394/ANUB K/Anub";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 3500;
+        avlbalance = "9970.7";
+        balance = "2347.6";
+        "bank_id" = " FB107601";
+        date = "21-DEC-2016 01:08:49 PM";
+        details = CASH;
+        "instrument_number" = "        10293833";
+        type = D;
+    },
+        {
+        amount = 180;
+        avlbalance = "9970.7";
+        balance = "2527.6";
+        "bank_id" = S17311385;
+        date = "22-DEC-2016 10:51:35 AM";
+        details = "MB FTB/16357073241/ANOOP P//";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 10000;
+        avlbalance = "9970.7";
+        balance = "12527.6";
+        "bank_id" = S17965265;
+        date = "23-DEC-2016 09:29:08 AM";
+        details = "MB FTB/16358047336/AMBIKA K/anub/anub";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = "42464.85";
+        avlbalance = "9970.7";
+        balance = "54992.45";
+        "bank_id" = S18001669;
+        date = "23-DEC-2016 10:33:30 AM";
+        details = "SALARYPF/PR: 10675 ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 25000;
+        avlbalance = "9970.7";
+        balance = "29992.45";
+        "bank_id" = S18014043;
+        date = "23-DEC-2016 10:45:14 AM";
+        details = "MB IMPS/IFO/635810749101/ICIC0000048/Anub";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = "27992.45";
+        "bank_id" = S18221151;
+        date = "23-DEC-2016 02:05:48 PM";
+        details = "TO ATM/8041/FBL-HEAD OFFICE       \\GROUND FLOO";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = "25992.45";
+        "bank_id" = S20316709;
+        date = "27-DEC-2016 06:06:42 AM";
+        details = "TO ATM/3428/SBI NAD ALUVA         \\";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 20000;
+        avlbalance = "9970.7";
+        balance = "5992.45";
+        "bank_id" = "  FB83424";
+        date = "28-DEC-2016 12:30:47 PM";
+        details = SELF;
+        "instrument_number" = "          527707";
+        type = D;
+    },
+        {
+        amount = 2000;
+        avlbalance = "9970.7";
+        balance = "3992.45";
+        "bank_id" = S21869510;
+        date = "29-DEC-2016 11:25:40 AM";
+        details = "TO ATM/9091/EDAPPALLY             \\";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 950;
+        avlbalance = "9970.7";
+        balance = "4942.45";
+        "bank_id" = S22048910;
+        date = "29-DEC-2016 02:34:34 PM";
+        details = "FT IMPS/IFI/636414475169/ANUB K/A";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 3000;
+        avlbalance = "9970.7";
+        balance = "1942.45";
+        "bank_id" = " FB150071";
+        date = "29-DEC-2016 02:36:02 PM";
+        details = SELF;
+        "instrument_number" = "          813965";
+        type = D;
+    },
+        {
+        amount = 4400;
+        avlbalance = "9970.7";
+        balance = "6342.45";
+        "bank_id" = S22665726;
+        date = "30-DEC-2016 12:34:31 PM";
+        details = "ANUB K 10675 Allow Of 12/2016";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 10;
+        avlbalance = "9970.7";
+        balance = "6352.45";
+        "bank_id" = S23082933;
+        date = "30-DEC-2016 07:48:29 PM";
+        details = "LOTZA/636519005662/anubk@federal/Pay to 954466830";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 5000;
+        avlbalance = "9970.7";
+        balance = "1352.45";
+        "bank_id" = S23265696;
+        date = "31-DEC-2016 08:10:11 AM";
+        details = "FN/ANUB K/1869131";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = "5486.25";
+        avlbalance = "9970.7";
+        balance = "6838.7";
+        "bank_id" = S23741673;
+        date = "31-DEC-2016 04:37:35 PM";
+        details = "FUEL/CONV ALLW/10675";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 132;
+        avlbalance = "9970.7";
+        balance = "6970.7";
+        "bank_id" = S23851511;
+        date = "31-DEC-2016 06:26:16 PM";
+        details = "FT IMPS/IFI/636618331706/ANUB K/Anub";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 11320100225662 - (
+        {
+        amount = 10;
+        avlbalance = "721.54";
+        balance = "681.85";
+        "bank_id" = S83916405;
+        date = "24-OCT-2016 11:41:22 AM";
+        details = "EFT/MISREC43789 RECHARGE 9544668304Euronet Servic";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10;
+        avlbalance = "721.54";
+        balance = "691.85";
+        "bank_id" = S85253232;
+        date = "26-OCT-2016 03:06:04 PM";
+        details = "Refund MISREC43789";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 20000;
+        avlbalance = "721.54";
+        balance = "20691.85";
+        "bank_id" = S86226183;
+        date = "28-OCT-2016 10:51:25 AM";
+        details = "MB FTB/16302045510/ANUB K/Achanfeder/Anub";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 10;
+        avlbalance = "721.54";
+        balance = "20681.85";
+        "bank_id" = S86538234;
+        date = "28-OCT-2016 04:10:06 PM";
+        details = "EFT/MISREC44205 RECHARGE 9544668304Euronet Servic";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10000;
+        avlbalance = "721.54";
+        balance = "10681.85";
+        "bank_id" = S86917495;
+        date = "29-OCT-2016 11:45:40 AM";
+        details = "TO ATM/5183/FBL-ASOKAPURAM        \\ASOKAPURAM,";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 10000;
+        avlbalance = "721.54";
+        balance = "681.85";
+        "bank_id" = S86917971;
+        date = "29-OCT-2016 11:46:25 AM";
+        details = "TO ATM/5184/FBL-ASOKAPURAM        \\ASOKAPURAM,";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = "50.41";
+        avlbalance = "721.54";
+        balance = "732.26";
+        "bank_id" = S87677689;
+        date = "31-OCT-2016 12:32:38 PM";
+        details = "NACH/HP612135 136909 2810/5818737359";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 10;
+        avlbalance = "721.54";
+        balance = "742.26";
+        "bank_id" = S89828783;
+        date = "03-NOV-2016 06:15:25 PM";
+        details = "Refund MISREC44205";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 1;
+        avlbalance = "721.54";
+        balance = "741.26";
+        "bank_id" = S98881151;
+        date = "22-NOV-2016 01:12:53 PM";
+        details = "MOBILE Alert Chrg01-10-201631-";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+        amount = 173;
+        avlbalance = "721.54";
+        balance = "568.26";
+        "bank_id" = " S2207584";
+        date = "29-NOV-2016 04:30:41 AM";
+        details = "ATMCARDFEE XXXX9032";
+        "instrument_number" = "<null>";
+        type = D;
+    },
+        {
+
+        amount = 15;
+        avlbalance = "721.54";
+        balance = "583.26";
+        "bank_id" = " S9948393";
+        date = "10-DEC-2016 09:17:22 AM";
+        details = "11320100225662:Int.Pd:01-09-2016 to 30-11-2016";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = "138.28";
+        avlbalance = "721.54";
+        balance = "721.54";
+        "bank_id" = S11730296;
+        date = "13-DEC-2016 06:49:00 PM";
+        details = "NACH/HP612135 154408 0812/6327628387";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 12210100218420 - (
+        {
+        amount = 13;
+        avlbalance = 1350;
+        balance = 1350;
+        "bank_id" = " S9977093";
+        date = "10-DEC-2016 10:06:15 AM";
+        details = "12210100218420:Int.Pd:01-09-2016 to 30-11-2016";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 12210100218545 - (
+        {
+        amount = 4;
+        avlbalance = 389;
+        balance = 389;
+        "bank_id" = " S9977093";
+        date = "10-DEC-2016 10:06:18 AM";
+        details = "12210100218545:Int.Pd:01-09-2016 to 30-11-2016";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 17685200000478 - (
+        {
+        amount = 300;
+        avlbalance = 0;
+        balance = "-21000";
+        "bank_id" = S86181982;
+        date = "28-OCT-2016 09:53:57 AM";
+        details = "289OFL PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 300;
+        avlbalance = 0;
+        balance = "-20700";
+        "bank_id" = " S2265012";
+        date = "29-NOV-2016 09:49:07 AM";
+        details = "292OFL PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 300;
+        avlbalance = 0;
+        balance = "-20400";
+        "bank_id" = S18001669;
+        date = "23-DEC-2016 10:33:30 AM";
+        details = "293OFL PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 17685200000809 - (
+        {
+        amount = 299;
+        avlbalance = 0;
+        balance = "-26011";
+        "bank_id" = S86181982;
+        date = "28-OCT-2016 09:53:57 AM";
+        details = "290OFL PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 299;
+        avlbalance = 0;
+        balance = "-25712";
+        "bank_id" = " S2265012";
+        date = "29-NOV-2016 09:49:07 AM";
+        details = "293OFL PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 299;
+        avlbalance = 0;
+        balance = "-25413";
+        "bank_id" = S18001669;
+        date = "23-DEC-2016 10:33:30 AM";
+        details = "294OFL PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 10015200185722 - (
+        {
+        amount = 900;
+        avlbalance = 0;
+        balance = "-45000";
+        "bank_id" = S86181982;
+        date = "28-OCT-2016 09:53:57 AM";
+        details = "288OFL PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 900;
+        avlbalance = 0;
+        balance = "-44100";
+        "bank_id" = " S2265012";
+        date = "29-NOV-2016 09:49:07 AM";
+        details = "291OFL PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 900;
+        avlbalance = 0;
+        balance = "-43200";
+        "bank_id" = S18001669;
+        date = "23-DEC-2016 10:33:29 AM";
+        details = "292OFL PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 19495200000363 - (
+        {
+        amount = 10461;
+        avlbalance = 0;
+        balance = "-2570893";
+        "bank_id" = S86181982;
+        date = "28-OCT-2016 09:53:57 AM";
+        details = "287HLS PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 10461;
+        avlbalance = 0;
+        balance = "-2560432";
+        "bank_id" = " S2265012";
+        date = "29-NOV-2016 09:49:06 AM";
+        details = "290HLS PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 10461;
+        avlbalance = 0;
+        balance = "-2549971";
+        "bank_id" = S18001669;
+        date = "23-DEC-2016 10:33:29 AM";
+        details = "291HLS PF/PR:10675ANUB K";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 10650300301264 - (
+        {
+        amount = NA;
+        avlbalance = 100000;
+        balance = 100000;
+        "bank_id" = S25402311;
+        date = " 3-JAN-2017 06:21:54 AM";
+        details = "NO TRANSACTION DATA FOUND";
+        "instrument_number" = NA;
+        type = NA;
+    }
+)
+
+Account Number : 10650600024178 - (
+        {
+        amount = 5000;
+        avlbalance = 25036;
+        balance = 15036;
+        "bank_id" = S87518134;
+        date = "31-OCT-2016 08:10:35 AM";
+        details = "FN/ANUB K/9359491";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 5000;
+        avlbalance = 25036;
+        balance = 20036;
+        "bank_id" = " S2922709";
+        date = "30-NOV-2016 08:09:48 AM";
+        details = "FN/ANUB K/5102451";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 5000;
+        avlbalance = 25036;
+        balance = 25036;
+        "bank_id" = S23265696;
+        date = "31-DEC-2016 08:10:12 AM";
+        details = "FN/ANUB K/1869131";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 10650300301181 - (
+        {
+        amount = NA;
+        avlbalance = 100000;
+        balance = 100000;
+        "bank_id" = S25402311;
+        date = " 3-JAN-2017 06:21:54 AM";
+        details = "NO TRANSACTION DATA FOUND";
+        "instrument_number" = NA;
+        type = NA;
+    }
+)
+
+Account Number : 10650300303948 - (
+        {
+        amount = NA;
+        avlbalance = 100000;
+        balance = 100000;
+        "bank_id" = S25402311;
+        date = " 3-JAN-2017 06:21:54 AM";
+        details = "NO TRANSACTION DATA FOUND";
+        "instrument_number" = NA;
+        type = NA;
+    }
+)
+
+Account Number : 10650600024210 - (
+        {
+        amount = 5000;
+        avlbalance = 20000;
+        balance = 5000;
+        "bank_id" = S88756684;
+        date = "02-NOV-2016 08:11:02 AM";
+        details = "FN/ANUB K/9797201";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 5000;
+        avlbalance = 20000;
+        balance = 10000;
+        "bank_id" = " S4348460";
+        date = "02-DEC-2016 08:09:50 AM";
+        details = "FN/ANUB K/5659411";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 5000;
+        avlbalance = 20000;
+        balance = 15000;
+        "bank_id" = S24361181;
+        date = "02-JAN-2017 08:10:42 AM";
+        details = "FN/ANUB K/2190291";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 10650600024251 - (
+        {
+        amount = 2000;
+        avlbalance = 8000;
+        balance = 2000;
+        "bank_id" = " FB137677";
+        date = "18-OCT-2016 03:57:56 PM";
+        details = "Tran. For Principal Amt";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 2000;
+        avlbalance = 8000;
+        balance = 4000;
+        "bank_id" = S88093743;
+        date = "01-NOV-2016 08:12:28 AM";
+        details = "FN/ANUB K/9577071";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 2000;
+        avlbalance = 8000;
+        balance = 6000;
+        "bank_id" = CFB972463;
+        date = "01-DEC-2016 09:13:10 AM";
+        details = "FN/ANUB K/5372221";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 2000;
+        avlbalance = 8000;
+        balance = 8000;
+        "bank_id" = S24078490;
+
+        date = "01-JAN-2017 08:10:20 AM";
+        details = "FN/ANUB K/2096691";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
+
+Account Number : 17680600002430 - (
+        {
+        amount = 5296;
+        avlbalance = 82284;
+        balance = 76988;
+        "bank_id" = S91275816;
+        date = "06-NOV-2016 11:23:23 AM";
+        details = "MB FTB/16311035132/ANUB K//";
+        "instrument_number" = "<null>";
+        type = C;
+    },
+        {
+        amount = 5296;
+        avlbalance = 82284;
+        balance = 82284;
+        "bank_id" = " S5746399";
+        date = "04-DEC-2016 04:07:40 AM";
+        details = "Std Ins FROM 10655000217397";
+        "instrument_number" = "<null>";
+        type = C;
+    }
+)
