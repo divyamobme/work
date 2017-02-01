@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require 'rubygems'
 require 'sinatra'
 require 'haml'
@@ -102,3 +103,6 @@ require 'haml'
 # %html 
 # %body 
 # %h1 Contact Us
+=======
+
+>>>>>>> 5fa20985f289cfb7497c5bdf14b4d1031aedbc95
