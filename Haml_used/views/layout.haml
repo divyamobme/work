@@ -1,0 +1,11 @@
+!!!
+/ views/layout.haml
+%html{:lang => "en"}
+  %head
+    %meta{:charset => "UTF-8"}/
+    %title Sinatra Blog
+  %body
+    %ul
+      %li
+        %a{:href => "/"} Home
+    = yield

@@ -1,0 +1,14 @@
+/ views/index.haml
+%h2 All Posts
+%ul
+  - @posts.each do |post|
+    %li
+      %a{:href => "/post/#{post.id}"}= post.title.to_json
+      | #{post.created_at}
+%h2 Add Post
+%form{:action => "/post", :method => "post"}
+  %label{:for => "title"} Title:
+  %input{:name => "title", :type => "text"}/
+  %label{:for => "body"} Body:
+  %input{:name => "body", :type => "text"}/
+  %input{:type => "submit", :value => "Add Post"}/

@@ -1,0 +1,12 @@
+/ views/post_page.haml
+%h2= @post.title.to_json
+%p
+  Created: #{@post.created_at}
+%p= @post.body.to_json
+%a{:href => "/post/#{@post.id}", :name => "_method", :value => "delete"} Delete Post
+%h2 Edit Post
+%form{:action => "/post/#{@post.id}", :method => "post"}
+  %input{:name => "_method", :type => "hidden", :value => "put"}/
+  %input{:name => "title", :type => "text", :value => @post.title}/
+  %input{:name => "body", :type => "text", :value => @post.body}/
+  %button{:type => "submit"} Update Post
